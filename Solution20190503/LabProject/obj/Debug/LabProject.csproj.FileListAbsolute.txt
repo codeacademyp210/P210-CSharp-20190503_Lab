@@ -1,0 +1,11 @@
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\bin\Debug\LabProject.exe.config
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\bin\Debug\LabProject.exe
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\bin\Debug\LabProject.pdb
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\obj\Debug\LabProject.Form1.resources
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\obj\Debug\LabProject.Properties.Resources.resources
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\obj\Debug\LabProject.csproj.GenerateResource.cache
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\obj\Debug\LabProject.csproj.CoreCompileInputs.cache
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\obj\Debug\LabProject.exe
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\obj\Debug\LabProject.pdb
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\obj\Debug\LabProject.UserControl1.resources
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\LabProject\obj\Debug\LabProject.csprojAssemblyReference.cache

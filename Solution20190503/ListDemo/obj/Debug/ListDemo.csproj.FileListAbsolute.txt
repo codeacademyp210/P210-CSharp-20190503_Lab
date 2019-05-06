@@ -1,0 +1,7 @@
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\ListDemo\bin\Debug\ListDemo.exe.config
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\ListDemo\bin\Debug\ListDemo.exe
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\ListDemo\bin\Debug\ListDemo.pdb
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\ListDemo\obj\Debug\ListDemo.csprojAssemblyReference.cache
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\ListDemo\obj\Debug\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\ListDemo\obj\Debug\ListDemo.exe
+C:\Users\Sattar\Documents\Classes\P210\20190503_Lab\Solution20190503\ListDemo\obj\Debug\ListDemo.pdb
